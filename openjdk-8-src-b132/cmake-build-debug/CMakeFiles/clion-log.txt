@@ -1,0 +1,22 @@
+"E:\software\dev\IDE\JetBrains\CLion 2018.3.2\.CLion\system\cygwin_cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/e/software/dev/java/open-sources/openjdk-8-src-b132
+-- The C compiler identification is unknown
+-- The CXX compiler identification is unknown
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_C_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CC" or the CMake cache entry CMAKE_C_COMPILER to the full path to
+  the compiler, or to the compiler name if it is in the PATH.
+
+
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_CXX_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CXX" or the CMake cache entry CMAKE_CXX_COMPILER to the full path
+  to the compiler, or to the compiler name if it is in the PATH.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/cygdrive/e/software/dev/java/open-sources/openjdk-8-src-b132/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/cygdrive/e/software/dev/java/open-sources/openjdk-8-src-b132/cmake-build-debug/CMakeFiles/CMakeError.log".
